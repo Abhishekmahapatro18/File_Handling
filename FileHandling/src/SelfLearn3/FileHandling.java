@@ -10,7 +10,7 @@ import java.io.IOException;
 public class FileHandling {
 
     public static void main(String[] args) {
-        String fileName = "Note.txt";
+        String fileName = "example.txt";
         
         // Write to file
         writeToFile(fileName, "Hello, World!");
